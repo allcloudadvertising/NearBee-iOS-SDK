@@ -52,7 +52,7 @@ The app should take care of enabling the bluetooth to range beacons.
 __MY_DEVELOPER_TOKEN__
 
 The app should provide the organization while initializing the SDK. Get it from [AllCloud Advertising Dashboard Account Page](https://digital.allcloudadvertising.com/account.
-The app should provide the developer token while initializing the SDK. Get it from your AllCloud Support.
+
 
 __MY_ORGANIZATION__
 
