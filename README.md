@@ -302,6 +302,7 @@ Beacons may contain a Business object which is the Place associated with the bea
 
 let business = beacon.business
 NearBeeBusiness *business = beacon.business
+  
 They have following properties
 
 // Color code associated with the place (Hex code), convert this accordingly
