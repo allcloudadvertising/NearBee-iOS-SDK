@@ -11,3 +11,5 @@ platform :ios, '10.0'
 target '<My-App-Target>''
   pod 'NearBee'
 end
+
+  Run pod install in the project directory
